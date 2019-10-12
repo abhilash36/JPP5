@@ -2,6 +2,7 @@ package filehandling;
 
 public class OutputStream {
 
+
 	public void m2()
 	{
 		
@@ -11,5 +12,9 @@ public class OutputStream {
 		// TODO Auto-generated method stub
 
 	}
+	public void m1()
+	{
+		
 
+	}
 }
